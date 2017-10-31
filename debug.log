@@ -1,0 +1,35 @@
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Hexo version: \u001b[35m3.4.0\u001b[39m","time":"2017-10-31T06:47:03.653Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Working directory: \u001b[35mE:\\git-space\\gitblog\\\u001b[39m","time":"2017-10-31T06:47:03.653Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Config loaded: \u001b[35mE:\\git-space\\gitblog\\_config.yml\u001b[39m","time":"2017-10-31T06:47:03.763Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-deployer-git\u001b[39m","time":"2017-10-31T06:47:03.793Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2017-10-31T06:47:03.793Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2017-10-31T06:47:03.803Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2017-10-31T06:47:03.803Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2017-10-31T06:47:03.803Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2017-10-31T06:47:03.813Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2017-10-31T06:47:03.813Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2017-10-31T06:47:03.813Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2017-10-31T06:47:03.873Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Loading database.","time":"2017-10-31T06:47:03.873Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":30,"msg":"Start processing","time":"2017-10-31T06:47:03.883Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Processed: \u001b[35m_posts/这个网站基本功能的描述.md\u001b[39m","time":"2017-10-31T06:47:03.903Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2017-10-31T06:47:03.983Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2017-10-31T06:47:03.983Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2017-10-31T06:47:03.983Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2017-10-31T06:47:03.983Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2017-10-31T06:47:03.983Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2017-10-31T06:47:03.983Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2017-10-31T06:47:03.983Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":30,"msg":"Files loaded in \u001b[36m112 ms\u001b[39m","time":"2017-10-31T06:47:03.993Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":40,"msg":"No layout: \u001b[35m2017/10/30/这个网站基本功能的描述/index.html\u001b[39m","time":"2017-10-31T06:47:03.993Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":40,"msg":"No layout: \u001b[35marchives/index.html\u001b[39m","time":"2017-10-31T06:47:03.993Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":40,"msg":"No layout: \u001b[35marchives/2017/index.html\u001b[39m","time":"2017-10-31T06:47:03.993Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":40,"msg":"No layout: \u001b[35marchives/2017/10/index.html\u001b[39m","time":"2017-10-31T06:47:03.993Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":40,"msg":"No layout: \u001b[35mindex.html\u001b[39m","time":"2017-10-31T06:47:03.993Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":30,"msg":"Generated: \u001b[35marchives/index.html\u001b[39m","time":"2017-10-31T06:47:04.003Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":30,"msg":"Generated: \u001b[35marchives/2017/index.html\u001b[39m","time":"2017-10-31T06:47:04.003Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":30,"msg":"Generated: \u001b[35m2017/10/30/这个网站基本功能的描述/index.html\u001b[39m","time":"2017-10-31T06:47:04.003Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":30,"msg":"Generated: \u001b[35marchives/2017/10/index.html\u001b[39m","time":"2017-10-31T06:47:04.003Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":30,"msg":"Generated: \u001b[35mindex.html\u001b[39m","time":"2017-10-31T06:47:04.003Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":30,"msg":"5 files generated in \u001b[36m12 ms\u001b[39m","time":"2017-10-31T06:47:04.003Z","v":0}
+{"name":"hexo","hostname":"beta-PC","pid":5244,"level":20,"msg":"Database saved","time":"2017-10-31T06:47:04.003Z","v":0}
